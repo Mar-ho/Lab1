@@ -6,6 +6,7 @@ namespace MarcinHoffmannLab1
     {
         static void Main(string[] args)
         {
+            // Zmiana w pliku
             Console.WriteLine("Wpisz tekst");
             string text = Console.ReadLine();
             Console.WriteLine("Wpisz pierwszą liczbę");
